@@ -5,5 +5,8 @@ int main(void) {
   printf("Hello World\n");
   printf("the value of x is %c\n", toupper(x));
   printf("%s\n", isalpha(x)?"True":"False");
+
+  
+  printf("%s", "Good!\n");
   return 0;
 }
